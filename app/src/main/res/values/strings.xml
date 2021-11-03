@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertidoraKT</string>
+    <string name="btn_dolares">Convertir a Dólares</string>
+    <string name="btn_euros">Convertir a Euros</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="txt_pesos">Ingrese la cantidad en pesos</string>
+</resources>
